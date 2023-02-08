@@ -6,5 +6,5 @@ click/cart/order to cart/order,cart/order to cart/order, click/cart/order to cli
 ### weights
 type weight, distance weight, time decay weight
 ## Ranking 
-### Features Engineer 
+### Features
 ### Model
