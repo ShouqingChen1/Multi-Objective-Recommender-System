@@ -12,8 +12,8 @@
 ###  当前最受欢迎的 Top20 clicks, carts, orders
 ## Rerank
 ### Features
-#### 用户：聚合统计
-#### 商品：聚合统计
-#### 用户-商品：itemCF 分数
+#### 用户：agg count + no cold start users filter
+#### 商品： position/time distance, popularity, embedding similarity 
+#### 用户-商品： repeat action,next action
 ### Ranking Model
 #### XGBoost
