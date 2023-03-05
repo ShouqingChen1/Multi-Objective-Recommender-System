@@ -13,7 +13,7 @@
 ## Rerank
 ### Features
 #### 用户：agg count + no cold start users filter
-#### 商品： position/time distance, popularity, embedding similarity 
+#### 商品-商品： position/time distance, popularity, embedding similarity 
 #### 用户-商品： repeat action,next action
 ### Ranking Model
 #### XGBoost
